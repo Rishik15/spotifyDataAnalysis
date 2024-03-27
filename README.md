@@ -34,4 +34,4 @@ This project is open source and available under the MIT License.
 
 ## Acknowledgments
 
-- Thanks to Kaggle for providing the dataset.
+Thanks to Kaggle for providing the dataset.
