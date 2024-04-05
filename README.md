@@ -10,12 +10,9 @@ The dataset used in this project is `spotify_top_songs_audio_features.csv`, sour
 
 ## Installation and Usage
 
-To run this project, you will need Jupyter Notebook or JupyterLab installed on your system. If you do not have Jupyter installed, you can install it using Anaconda or with pip:
+To run this project, you will need Jupyter Notebook or JupyterLab installed on your system.
 
-```bash
-pip install notebook
-```
-Once Jupyter is installed, clone this repository and navigate to the project directory. Open Jupyter Notebook or JupyterLab and navigate to the `.ipynb` files to view and run them.
+Clone this repository and navigate to the project directory. Open Jupyter Notebook or JupyterLab and navigate to the `.ipynb` files to view and run them.
 
 ## Project Structure
 
